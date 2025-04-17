@@ -1,0 +1,8 @@
+{
+  "manifest_version": 1,
+  "name": "TONPlay",
+  "url": "https://yourusername.github.io/tonplay",
+  "iconUrl": "https://yourusername.github.io/tonplay/logo.png",
+  "termsUrl": "https://yourusername.github.io/tonplay/terms",
+  "privacyUrl": "https://yourusername.github.io/tonplay/privacy"
+}
